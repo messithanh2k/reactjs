@@ -1,8 +1,8 @@
 function Content(){
     return (
         <div>
-            Hello anh em tôi là Thanh đây
-            Nhớ mát tơ Q rồi đúng ko anh?
+            <h1>Nhớ mát tơ Q rồi đúng ko anh?</h1>
+            <img src={require('./xanh.png')} alt="Quỳnh nè" width="300" height="400"/>
         </div>
     )
 }
